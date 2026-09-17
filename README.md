@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.jpg" width="100%" style="border-radius:15px;" />
-</p>
+<p align="center"><img src="banner.jpg" width="100%" /></p>
 
 # ✨ Hi, I'm Humaira Akram | humaira924
 
