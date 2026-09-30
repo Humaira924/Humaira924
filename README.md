@@ -2,6 +2,7 @@
 
 # ✨ Hi, I'm Humaira Akram | humaira924
 ### 🔐 Security Researcher | Bug Hunter | Azure Cloud ☁️
+
 ### 🏆 Featured Finding - Critical 10.0
 **GHSA-j7ww-2w32-2mch - Inclusion of Functionality from Untrusted Control Sphere in ChatGPT-Next-Web**
 Vercel Token Leak via `pull_request_target` -> Full Account Takeover possible | Patched: v2.15.3
