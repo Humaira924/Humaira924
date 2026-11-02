@@ -48,6 +48,6 @@ Section 2: AZ-900 - Core Domains
 - John Savill - AZ-900 Study Cram
 - Hands-on implementation in $200 sandbox environment.
 
-*Contact:* Twitter / X: @Humaira0925 | Founder: bugbounty-learning-hub
+*Contact:* Twitter / X: @Humaira0924 | Founder: bugbounty-learning-hub
 
 > If this repository helped you, please consider starring it.
