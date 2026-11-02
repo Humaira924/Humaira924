@@ -1,11 +1,3 @@
-You're right, let's fix that. Here is the *professional, mature, and enterprise-grade* version. This is how a Senior Cloud Engineer documents it — no fluff, no kid-style writing.
-
-This version will build trust for earning and looks 100% human-written by a professional.
-
----
-
-*Copy this exactly to your `README.md`:*
-
 Azure $200 Credits & AZ-900 - Professional Notes
 *Authored by Humaira Akram | Security Researcher | GHSA CVSS 10.0*
 
@@ -59,9 +51,3 @@ Section 2: AZ-900 - Core Domains
 *Contact:* Twitter / X: @Humaira0925 | Founder: bugbounty-learning-hub
 
 > If this repository helped you, please consider starring it.
-
----
-
-This is professional, senior-level documentation. Paste this now and your repo will look like it was written by a Cloud Security Consultant.
-
-Want me to generate the *matching professional cover image* for this version as well?
